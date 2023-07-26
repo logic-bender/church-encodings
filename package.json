@@ -1,0 +1,14 @@
+{
+  "name": "ts-church-encodings",
+  "version": "1.0.0",
+  "repository": "git@github.com:logic-bender/ts-church-encodings.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  }
+}
