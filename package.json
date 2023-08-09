@@ -4,6 +4,8 @@
   "repository": "git@github.com:logic-bender/ts-church-encodings.git",
   "license": "MIT",
   "scripts": {
+
+    "debug": "tsx src/index.ts",
     "start": "tsx src/index.ts",
     "dev": "tsx watch src/index.ts"
   },
